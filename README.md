@@ -1,10 +1,6 @@
-# GithubPages
-
 This site will give some information about me
-
-# Github Pages Site
 ------
-## Jacob Taylor
+# Jacob Taylor
 ------
 
 ## Links to some of my pages
